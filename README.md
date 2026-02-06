@@ -43,7 +43,7 @@ cd file-based-todo
 ```
 Run the application:
 ```
-### Usage
+## Usage
 1. Launch the program.
 2. Follow the menu to add, view, or delete tasks.
 3. Tasks will be saved automatically in to-do.txt.
