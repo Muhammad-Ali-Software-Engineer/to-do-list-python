@@ -1,5 +1,3 @@
-# to-do-list-python
-File-Based To-Do List App – A simple Python console application to manage your daily tasks. Add, view, and delete tasks, with automatic saving to a text file.
 # File-Based To-Do List App 📝
 
 A simple Python console application for managing tasks. This app allows you to:
@@ -50,6 +48,7 @@ Run the application:
 2. Follow the menu to add, view, or delete tasks.
 3. Tasks will be saved automatically in to-do.txt.
 ### Example:
+```
 ========================
      To-Do List App
 ========================
@@ -61,3 +60,4 @@ Run the application:
 Enter choice: 1
 Enter task: Finish homework
 Task added successfully.
+```
