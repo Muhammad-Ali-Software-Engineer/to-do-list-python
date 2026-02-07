@@ -62,7 +62,7 @@ def ShowMenu():
         AddTask()
     elif choice == 2:
         ViewTasks()
-        # ShowMenu()
+        ShowMenu()
     elif choice == 3:
         DeleteTask()
     else:
