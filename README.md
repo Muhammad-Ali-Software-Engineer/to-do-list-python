@@ -66,7 +66,7 @@ Task added successfully.
 ## 👨‍💻 Author
 
 **Muhammad Ali**  
-💻 Frontend Developer | UI/UX Designer | Python Enthusiast
+💻 Frontend Developer | UI/UX Designer | Python Enthusiast <br>
 🎓 BS Software Engineering Student  
 🏫 University of Gujrat <br>
 📍 Pakistan  
