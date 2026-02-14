@@ -61,3 +61,21 @@ Enter choice: 1
 Enter task: Finish homework
 Task added successfully.
 ```
+---
+
+## 👨‍💻 Author
+
+**Muhammad Ali**  
+💻 Frontend Developer | UI/UX Designer | Python Enthusiast
+🎓 BS Software Engineering Student  
+🏫 University of Gujrat <br>
+📍 Pakistan  
+
+- 🔗 GitHub: https://github.com/Muhammad-Ali-Software-Engineer
+- 💼 LinkedIn: https://linkedin.com/in/Muhammad-Ali-Software-Engineer
+- 📧 Email: MuhammadAliOfficial75@gmail.com | info.alideveloper@gmail.com
+
+
+> Passionate about Python, Software Engineering, and building projects to strengthen programming concepts.
+
+---
