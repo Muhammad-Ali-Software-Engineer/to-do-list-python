@@ -33,15 +33,15 @@ A simple Python console application for managing tasks. This app allows you to:
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/file-based-todo.git
+git clone https://github.com/Muhammad-Ali-Software-Engineer/to-do-list-python.git
 ```
 3. Navigate to the project folder:
 ```
-cd file-based-todo
+cd to-do-list-python
 ```
 4. Run the application:
 ```
-Run the application:
+python main.py
 ```
 ## Usage
 1. Launch the program.
